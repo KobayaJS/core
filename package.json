@@ -1,0 +1,12 @@
+{
+  "name": "@kobaya/core",
+  "version": "0.1.0",
+  "description": "The core module for kobaya",
+  "main": "lib/index.js",
+  "repository": "https://github.com/KobayaJS/core",
+  "author": "TimeBather <2387911242@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  }
+}
